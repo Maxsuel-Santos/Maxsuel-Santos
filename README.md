@@ -2,7 +2,7 @@
 
 ### Sobre mim 😃
 
-Estudante de desenvolvimento web - HTML, CSS & JS -, tenho 17 anos e sou apaixonado por desenvolvimento de software e designer.
+Estudante de desenvolvimento web - HTML, CSS & JS -, tenho 17 anos e sou apaixonado por desenvolvimento de software e design.
 
 ### Tecnologias do meu dia a dia
 
