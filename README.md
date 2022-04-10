@@ -19,6 +19,7 @@ Estudante de desenvolvimento web - HTML, CSS & JS -, tenho 17 anos e sou apaixon
 
 ### Estatísticas do GitHub 📊
 ![Maxsuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxsuel-Santos&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsuel-Santos&layout=compact)](https://github.com/Maxsuel-Santos/github-readme-stats)
   
 ### Contato e Profissional
