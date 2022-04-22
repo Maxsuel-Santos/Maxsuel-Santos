@@ -6,17 +6,17 @@ Estudante de desenvolvimento web - HTML, CSS & JS -, tenho 17 anos e sou apaixon
 
 ## Tecnologias do meu dia a dia
 
-<div style="display: inline_block;"><br>  
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+<code title='Html'>![icon](_GitHub/img/html-icon.svg)</code>
+<code title='Css'>![icon](_GitHub/img/css-icon.svg)</code>
+<code title='Sass'>![icon](_GitHub/img/sass-icon.svg)</code>
+<code title='JavaScript'>![icon](_GitHub/img/javascript-icon.svg)</code>
+
+## Vou Aprender
+
+<code title='React'>![icon](_GitHub/img/react-icon.svg)</code>
+<code title='Node'>![icon](_GitHub/img/nodejs-icon.svg)</code>
+<code title='TypeScript'>![icon](_GitHub/img/typescript-icon.svg)</code>
+<code title='React Native'>![icon](_GitHub/img/react-native-icon.svg)</code>
 
 ## Estatísticas do GitHub 📊
 
