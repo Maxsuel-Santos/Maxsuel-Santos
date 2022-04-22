@@ -28,9 +28,9 @@ Estudante de desenvolvimento web - HTML, CSS & JS -, tenho 17 anos e sou apaixon
   
 ## Contato e Profissional
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/santosmaxsuel_)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maxsuel-Santos)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxsuel-santos-3349b81b2/)
+[![shield](_GitHub/img/linkedin-icon.svg)](https://www.linkedin.com/in/maxsuel-santos-3349b81b2/)
+[![shield](_GitHub/img/instagram-icon.svg)](https://instagram.com/santosmaxsuel_)
+[![shield](_GitHub/img/github-icon.svg)](https://github.com/Maxsuel-Santos)
 
 ## Site
 
