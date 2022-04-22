@@ -10,6 +10,7 @@ Estudante de desenvolvimento web - HTML, CSS & JS -, tenho 17 anos e sou apaixon
 <code title='Css'>![icon](_GitHub/img/css-icon.svg)</code>
 <code title='Sass'>![icon](_GitHub/img/sass-icon.svg)</code>
 <code title='JavaScript'>![icon](_GitHub/img/javascript-icon.svg)</code>
+<code title='Git'>![icon](_GitHub/img/github-shield.svg)</code>
 <code title='Figma'>![icon](_GitHub/img/figma-icon.svg)</code>
 
 ## Vou Aprender
