@@ -28,9 +28,9 @@ Estudante de desenvolvimento web, tenho 17 anos e sou apaixonado por desenvolvim
   
 ## Contato e Profissional
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxsuel-santos-3349b81b2/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/santosmaxsuel_)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maxsuel-Santos)
+<a href="https://www.linkedin.com/in/maxsuel-santos-3349b81b2/" target="_blank"><code title='Linkedin'>![Social](_GitHub/img/linkedin-icon.png)</code></a>
+<a href="https://instagram.com/santosmaxsuel_" target="_blank"><code title='Instagram'>![Social](_GitHub/img/instagram-icon.png)</code></a>
+<a href="https://github.com/Maxsuel-Santos" target="_blank"><code title='GitHub'>![Social](_GitHub/img/github-icon.png)</code></a>
 
 ## Site
 
