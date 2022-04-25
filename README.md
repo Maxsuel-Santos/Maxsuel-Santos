@@ -20,6 +20,19 @@ Estudante de desenvolvimento web, tenho 17 anos e sou apaixonado por desenvolvim
 <code title='TypeScript'>![icon](_GitHub/img/typescript-icon.svg)</code>
 <code title='React Native'>![icon](_GitHub/img/react-native-icon.svg)</code>
 
+## Estou Aprendendo
+
+<code title="Java">![icon](_GitHub/img/java-icon.svg)</code>
+<code title="MySQL">![icon](_GitHub/img/sql-logo.svg)</code>
+<code title="WordPress">![icon](_GitHub/img/wordpress-logo.svg)</code>
+
+## Já estudei
+
+<code title="Python">![icon](_GitHub/img/python-icon.svg)</code>
+<code title="C">![icon](_GitHub/img/linguagem-c.svg)</code>
+<code title="Arduino">![icon](_GitHub/img/arduino-logo.svg)</code>
+<code title="Php">![icon](_GitHub/img/php-logo.svg)</code>
+
 ## Estatísticas do GitHub 📊
 
 <a href="https://github.com/Maxsuel-Santos">
