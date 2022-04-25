@@ -27,7 +27,7 @@ Estudante de desenvolvimento web, tenho 17 anos e sou apaixonado por desenvolvim
 <code title="WordPress">![icon](_GitHub/img/wordpress-logo.svg)</code>
 
 ## Já estudei
-
+<!--  -->
 <code title="Python">![icon](_GitHub/img/python-icon.svg)</code>
 <code title="C">![icon](_GitHub/img/linguagem-c.svg)</code>
 <code title="Arduino">![icon](_GitHub/img/arduino-logo.svg)</code>
