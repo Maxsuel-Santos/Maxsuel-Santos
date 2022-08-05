@@ -10,6 +10,7 @@ Estudante de desenvolvimento web, tenho 17 anos e sou apaixonado por desenvolvim
 <code title='Css'>![icon](_GitHub/img/css-icon.svg)</code>
 <code title='Sass'>![icon](_GitHub/img/sass-icon.svg)</code>
 <code title='JavaScript'>![icon](_GitHub/img/javascript-icon.svg)</code>
+<code title='MySQL'>![icon](_GitHub/img/sql-logo.svg)</code>
 <code title='React'>![icon](_GitHub/img/react-icon.svg)</code>
 <code title='Git'>![icon](_GitHub/img/git-icon.svg)</code>
 <code title='Figma'>![icon](_GitHub/img/figma-icon.svg)</code>
