@@ -14,6 +14,7 @@ Estudante de desenvolvimento web, tenho 18 anos e sou apaixonado por desenvolvim
 <code title='React'>![icon](_GitHub/img/react-icon.svg)</code>
 <code title='Git'>![icon](_GitHub/img/git-icon.svg)</code>
 <code title='Figma'>![icon](_GitHub/img/figma-icon.svg)</code>
+<code title='Arduino'>![icon](_GitHub/img/python-icon.svg)</code>
 <code title='Arduino'>![icon](_GitHub/img/arduino-logo.svg)</code>
 
 ## Vou Aprender
