@@ -2,27 +2,20 @@
 
 ## Sobre mim 😃
 
-Estudante de desenvolvimento web, tenho 18 anos e sou apaixonado por desenvolvimento de software e design.
+Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenvolvimento de software e entusiasta em IA e análise de dados.
 
 ## Tecnologias do meu dia a dia
 
-<code title='Html'>![icon](_GitHub/img/html-icon.svg)</code>
-<code title='Css'>![icon](_GitHub/img/css-icon.svg)</code>
-<code title='Sass'>![icon](_GitHub/img/sass-icon.svg)</code>
-<code title='JavaScript'>![icon](_GitHub/img/javascript-icon.svg)</code>
-<code title='MySQL'>![icon](_GitHub/img/sql-logo.svg)</code>
-<code title='React'>![icon](_GitHub/img/react-icon.svg)</code>
-<code title='Arduino'>![icon](_GitHub/img/python-icon.svg)</code>
-<code title='Arduino'>![icon](_GitHub/img/arduino-logo.svg)</code>
-<code title='Arduino'>![icon](_GitHub/img/java-icon.svg)</code>
-<code title='Git'>![icon](_GitHub/img/git-icon.svg)</code>
-<code title='Figma'>![icon](_GitHub/img/figma-icon.svg)</code>
-
-## Vou Aprender
-
-<code title='Node'>![icon](_GitHub/img/nodejs-icon.svg)</code>
-<code title='TypeScript'>![icon](_GitHub/img/typescript-icon.svg)</code>
-<code title='React Native'>![icon](_GitHub/img/react-native-icon.svg)</code>
+<code title='Html'>![icon](_GitHub/img/python.svg)</code>
+<code title='Html'>![icon](_GitHub/img/c++.svg)</code>
+<code title='Html'>![icon](_GitHub/img/java.svg)</code>
+<code title='Html'>![icon](_GitHub/img/springboot.svg.svg)</code>
+<code title='Html'>![icon](_GitHub/img/javascript-icon.svg)</code>
+<code title='Html'>![icon](_GitHub/img/sql-logo.svg)</code>
+<code title='Html'>![icon](_GitHub/img/react-icon.svg)</code>
+<code title='Html'>![icon](_GitHub/img/sass-icon.svg)</code>
+<code title='Html'>![icon](_GitHub/img/arduino.svg.svg)</code>
+<code title='Html'>![icon](_GitHub/img/figma-icon.svg)</code>
 
 ## Estatísticas do GitHub 📊
 
