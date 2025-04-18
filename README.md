@@ -6,16 +6,16 @@ Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenv
 
 ## Tecnologias do meu dia a dia
 
-<code title='Html'>![icon](_GitHub/img/python.svg)</code>
-<code title='Html'>![icon](_GitHub/img/c++.svg)</code>
-<code title='Html'>![icon](_GitHub/img/java.svg)</code>
-<code title='Html'>![icon](_GitHub/img/springboot.svg)</code>
-<code title='Html'>![icon](_GitHub/img/javascript-icon.svg)</code>
-<code title='Html'>![icon](_GitHub/img/sql-logo.svg)</code>
-<code title='Html'>![icon](_GitHub/img/react-icon.svg)</code>
-<code title='Html'>![icon](_GitHub/img/sass-icon.svg)</code>
-<code title='Html'>![icon](_GitHub/img/arduino.svg)</code>
-<code title='Html'>![icon](_GitHub/img/figma-icon.svg)</code>
+<code title='Python'>![icon](_GitHub/img/python.svg)</code>
+<code title='C++'>![icon](_GitHub/img/c++.svg)</code>
+<code title='Java'>![icon](_GitHub/img/java.svg)</code>
+<code title='Springboot'>![icon](_GitHub/img/springboot.svg)</code>
+<code title='Javascript'>![icon](_GitHub/img/javascript-icon.svg)</code>
+<code title='SQL'>![icon](_GitHub/img/sql-logo.svg)</code>
+<code title='React'>![icon](_GitHub/img/react-icon.svg)</code>
+<code title='Sass'>![icon](_GitHub/img/sass-icon.svg)</code>
+<code title='Arduino'>![icon](_GitHub/img/arduino.svg)</code>
+<code title='Figma'>![icon](_GitHub/img/figma-icon.svg)</code>
 
 ## Estatísticas do GitHub 📊
 
