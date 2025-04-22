@@ -13,6 +13,8 @@ Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenv
 <code title='Javascript'>![icon](_GitHub/img/javascript-icon.svg)</code>
 <code title='SQL'>![icon](_GitHub/img/sql-logo.svg)</code>
 <code title='React'>![icon](_GitHub/img/react-icon.svg)</code>
+<code title='Html'>![icon](_GitHub/img/html-icon.svg)</code>
+<code title='Css'>![icon](_GitHub/img/css-icon.svg)</code>
 <code title='Sass'>![icon](_GitHub/img/sass-icon.svg)</code>
 <code title='Arduino'>![icon](_GitHub/img/arduino.svg)</code>
 <code title='Figma'>![icon](_GitHub/img/figma-icon.svg)</code>
