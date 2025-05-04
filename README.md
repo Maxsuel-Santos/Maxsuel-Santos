@@ -2,7 +2,7 @@
 
 ## Sobre mim 😃
 
-Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenvolvimento de software e entusiasta em IA e análise de dados.
+Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenvolvimento de software e entusiasta em IA, Visão Computacional e análise de dados.
 
 ## Tecnologias do meu dia a dia
 
