@@ -30,4 +30,3 @@ Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenv
 <a href="https://www.linkedin.com/in/maxsuel-santos/" target="_blank"><code title='Linkedin'>![Social](_GitHub/img/linkedin-icon.svg)</code></a>
 <a href="https://instagram.com/santosmaxsuel_" target="_blank"><code title='Instagram'>![Social](_GitHub/img/instagram-icon.svg)</code></a>
 <a href="https://github.com/Maxsuel-Santos" target="_blank"><code title='GitHub'>![Social](_GitHub/img/github-icon.svg)</code></a>
-
