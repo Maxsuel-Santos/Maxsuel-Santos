@@ -23,7 +23,7 @@ Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenv
 
 <a href="https://github.com/Maxsuel-Santos">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maxsuel-Santos&layout=compact&theme=vue-dark"/>   
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsuel-Santos&layout=compact&theme=vue-dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsuel-Santos&layout=compact&theme=vue-dark&langs_count=8"/>
   
 ## Contato e Profissional
 
