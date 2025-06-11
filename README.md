@@ -2,7 +2,7 @@
 
 ## Sobre mim 😃
 
-Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenvolvimento de software e entusiasta em IA e análise de dados.
+Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenvolvimento de software e entusiasta em IA, Visão Computacional e Análise de Dados.
 
 ## Tecnologias do meu dia a dia
 
@@ -23,14 +23,10 @@ Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenv
 
 <a href="https://github.com/Maxsuel-Santos">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maxsuel-Santos&layout=compact&theme=vue-dark"/>   
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsuel-Santos&layout=compact&theme=vue-dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsuel-Santos&layout=compact&theme=vue-dark&langs_count=8"/>
   
 ## Contato e Profissional
 
 <a href="https://www.linkedin.com/in/maxsuel-santos/" target="_blank"><code title='Linkedin'>![Social](_GitHub/img/linkedin-icon.svg)</code></a>
 <a href="https://instagram.com/santosmaxsuel_" target="_blank"><code title='Instagram'>![Social](_GitHub/img/instagram-icon.svg)</code></a>
 <a href="https://github.com/Maxsuel-Santos" target="_blank"><code title='GitHub'>![Social](_GitHub/img/github-icon.svg)</code></a>
-
-## Site
-
-👉 _https://maxsuel-santos.github.io/Portfolio/_
