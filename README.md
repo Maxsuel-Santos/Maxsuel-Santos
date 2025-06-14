@@ -6,7 +6,7 @@ Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenv
 
 ## Tecnologias do meu dia a dia
 
-<code title='Python'>![icon](_GitHub/img/python.svg)</code>
+<code title='Python'>![icon](_GitHub/img/python-icon-white.svg)</code>
 <code title='C++'>![icon](_GitHub/img/c++.svg)</code>
 <code title='Java'>![icon](_GitHub/img/java.svg)</code>
 <code title='Springboot'>![icon](_GitHub/img/springboot.svg)</code>
