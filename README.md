@@ -11,14 +11,14 @@ Estudante de Ciência da Computação, tenho 20 anos e sou apaixonado por desenv
 <code title='C++'>![icon](_GitHub/img/c++.svg)</code>
 <code title='Python'>![icon](_GitHub/img/python-icon-white.svg)</code>
 <code title='Javascript'>![icon](_GitHub/img/javascript-icon.svg)</code>
-<code title='SQL'>![icon](_GitHub/img/typescript-icon.svg)</code>
+<code title='TypeScript'>![icon](_GitHub/img/typescript-icon.svg)</code>
 <code title='React'>![icon](_GitHub/img/react-icon.svg)</code>
-<code title='SQL'>![icon](_GitHub/img/tailwind.svg)</code>
+<code title='Tailwind'>![icon](_GitHub/img/tailwind.svg)</code>
 <code title='SQL'>![icon](_GitHub/img/sql-icon.svg)</code>
 <code title='Html'>![icon](_GitHub/img/html-icon.svg)</code>
 <code title='Css'>![icon](_GitHub/img/css-icon.svg)</code>
 <code title='Sass'>![icon](_GitHub/img/sass-icon.svg)</code>
-<code title='SQL'>![icon](_GitHub/img/docker-icon.svg)</code>
+<code title='Docker'>![icon](_GitHub/img/docker-icon.svg)</code>
 <code title='Figma'>![icon](_GitHub/img/figma-icon.svg)</code>
 
 ## Estatísticas do GitHub 📊
