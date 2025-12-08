@@ -23,11 +23,11 @@ Estudante de Ciência da Computação, tenho 21 anos e sou apaixonado por desenv
 
 ## Estatísticas do GitHub 📊
 
-<p>
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxsuel-Santos&theme=aura&hide_border=false"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsuel-Santos&layout=compact&langs_count=6&theme=aura"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Maxsuel-Santos&show_icons=true&theme=aura"/>
-  <img height="185em" src="https://github-contributor-stats.vercel.app/api?username=Maxsuel-Santos&limit=3&theme=aura&combine_all_yearly_contributions=true"/>
+<p align="center">
+  <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maxsuel-Santos&theme=aura&hide_border=false"/>
+  <!--<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxsuel-Santos&layout=compact&langs_count=6&theme=aura"/>-->
+  <!--<img height="135em" src="https://github-readme-stats.vercel.app/api?username=Maxsuel-Santos&show_icons=true&theme=aura"/>--->
+  <img height="135em" src="https://github-contributor-stats.vercel.app/api?username=Maxsuel-Santos&limit=3&theme=aura&combine_all_yearly_contributions=true"/>
 </p>
   
 ## Contato e Profissional
