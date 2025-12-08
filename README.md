@@ -6,6 +6,13 @@ Estudante de Ciência da Computação, tenho 21 anos e sou apaixonado por desenv
 
 ## Tecnologias do meu dia a dia
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,cpp,python,js,ts,react,tailwind,docker,mysql,git,figma,html,css,sass"/>
+  </a>
+</p>
+
+<!--
 <code title='Java'>![icon](_GitHub/img/java.svg)</code>
 <code title='Springboot'>![icon](_GitHub/img/springboot.svg)</code>
 <code title='C++'>![icon](_GitHub/img/c++.svg)</code>
@@ -20,6 +27,7 @@ Estudante de Ciência da Computação, tenho 21 anos e sou apaixonado por desenv
 <code title='Css'>![icon](_GitHub/img/css-icon.svg)</code>
 <code title='Sass'>![icon](_GitHub/img/sass-icon.svg)</code>
 <code title='Figma'>![icon](_GitHub/img/figma-icon.svg)</code>
+-->
 
 ## Estatísticas do GitHub 📊
 
