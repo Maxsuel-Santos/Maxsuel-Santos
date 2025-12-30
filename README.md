@@ -15,7 +15,7 @@ Também possuo grande interesse em **Inteligência Artificial**, **Visão Comput
 </p>
 
 **Principais áreas de atuação:**
-- **Backend:** Java, Spring Boot, C++
+- **Backend:** Java, Spring Boot, C++, Node
 - **Frontend:** React, TypeScript, Tailwind CSS
 - **Dados & IA:** Python
 - **DevOps & Ferramentas:** Docker, Git, MySQL
