@@ -2,7 +2,9 @@
 
 ## Sobre mim 😃
 
-Estudante de Ciência da Computação, tenho 21 anos e sou apaixonado por desenvolvimento de software e entusiasta em IA, Visão Computacional e Análise de Dados.
+Sou estudante de **Ciência da Computação**, tenho 21 anos e sou apaixonado por desenvolvimento de software.
+Tenho foco em **Backend com Java e Spring**, buscando construir soluções bem estruturadas, eficientes e escaláveis.  
+Também possuo grande interesse em **Inteligência Artificial**, **Visão Computacional** e **Análise de Dados**, áreas nas quais venho aprofundando meus estudos.
 
 ## Tecnologias do meu dia a dia
 
@@ -12,22 +14,14 @@ Estudante de Ciência da Computação, tenho 21 anos e sou apaixonado por desenv
   </a>
 </p>
 
-<!--
-<code title='Java'>![icon](_GitHub/img/java.svg)</code>
-<code title='Springboot'>![icon](_GitHub/img/springboot.svg)</code>
-<code title='C++'>![icon](_GitHub/img/c++.svg)</code>
-<code title='Python'>![icon](_GitHub/img/python-icon-white.svg)</code>
-<code title='Javascript'>![icon](_GitHub/img/javascript-icon.svg)</code>
-<code title='TypeScript'>![icon](_GitHub/img/typescript-icon.svg)</code>
-<code title='React'>![icon](_GitHub/img/react-icon.svg)</code>
-<code title='Tailwind'>![icon](_GitHub/img/tailwind.svg)</code>
-<code title='Docker'>![icon](_GitHub/img/docker-icon.svg)</code>
-<code title='SQL'>![icon](_GitHub/img/sql-icon.svg)</code>
-<code title='Html'>![icon](_GitHub/img/html-icon.svg)</code>
-<code title='Css'>![icon](_GitHub/img/css-icon.svg)</code>
-<code title='Sass'>![icon](_GitHub/img/sass-icon.svg)</code>
-<code title='Figma'>![icon](_GitHub/img/figma-icon.svg)</code>
--->
+**Principais áreas de atuação:**
+- **Backend:** Java, Spring Boot, C++
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Dados & IA:** Python
+- **DevOps & Ferramentas:** Docker, Git, MySQL
+- **Design & Prototipação:** Figma
+
+---
 
 ## Estatísticas do GitHub 📊
 
@@ -38,7 +32,7 @@ Estudante de Ciência da Computação, tenho 21 anos e sou apaixonado por desenv
   <img height="160em" src="https://github-contributor-stats.vercel.app/api?username=Maxsuel-Santos&limit=3&theme=aura&combine_all_yearly_contributions=true"/>
 </p>
   
-## Contato e Profissional
+## Contato
 
 <a href="https://www.linkedin.com/in/maxsuel-santos/" target="_blank"><code title='Linkedin'>![Social](_GitHub/img/linkedin-icon.svg)</code></a>
 <a href="https://instagram.com/santosmaxsuel_" target="_blank"><code title='Instagram'>![Social](_GitHub/img/instagram-icon.svg)</code></a>
