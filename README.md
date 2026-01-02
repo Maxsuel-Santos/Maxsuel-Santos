@@ -18,7 +18,7 @@ Também possuo grande interesse em **Inteligência Artificial**, **Visão Comput
 - **Backend:** Java, Spring Boot, C++, Node
 - **Frontend:** React, TypeScript, Tailwind CSS
 - **Dados & IA:** Python
-- **DevOps & Ferramentas:** Docker, Git, MySQL
+- **DevOps & Ferramentas:** Docker, Git, MySQL, Postgres
 - **Design & Prototipação:** Figma
 
 ---
